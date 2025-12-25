@@ -50,8 +50,7 @@ This creates a unique opportunity for students to develop and experiment with **
 
 ---
 
-### Step 4 – To Be Confirmed
-- Details will be defined later  
+### Step 4 – To Be Confirmed 
 
 ---
 
