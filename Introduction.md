@@ -13,8 +13,6 @@ We do **not** expect everyone to understand everything at this stage, please rea
 
 Because the Moth is a **development class**, there are very few design restrictions. Instead of prescribing how the boat must look, the class only defines a **maximum box size** that the boat must fit within. Beyond these limits, almost everything is left to the builder’s creativity and engineering decisions. When the class was created in the 1920s, the Moth was a conventional dinghy, similar in concept to boats such as the **E-jolle** or **Laser (ILCA)**. Over time, as materials, hydrodynamics, and control systems evolved, hydrofoils were introduced. Today, the International Moth is regarded as one of the most **high-performance dinghies** in the sailing world.
 
----
-
 The **SuMoth Challenge** adds an additional rulebook on top of the standard Moth class rules. These rules introduce requirements related to **materials, construction methods, and environmental impact**, forcing teams to actively consider the sustainability aspects of boat building. A significant bonus of the SuMoth ruleset is that it **allows electronic control systems**. This makes it possible to actively adjust the boat’s **ride height**, the height at which the boat flies above the water while foiling.
 
 This creates a unique opportunity for students to develop and experiment with **active electronic control systems**, working with fundamental concepts that are highly relevant both in the marine industry and in advanced engineering fields more broadly. The aim of this project is to **design and develop a first prototype of an active electronic control system** for ride-height control on the high-performance Moth dinghy **Saga**.
