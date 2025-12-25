@@ -1,13 +1,14 @@
  
+## INTRODUCTION 
+
+# This document is a short introduction to the project, expectation and goal. It will include a few links which introduced the Formula Sailing project and the fundamentals of a Moth dingy which is good to know beforehand. We dont expect anyone to understand everything so please just read through the material and then we could discuess everything during our meeting!
 
 
-This document is a short introduction to the project, expectation and goal. It will include a few links which introduced the Formula Sailing project and the fundamentals of a Moth dingy which is good to know beforehand. 
-
-Step 0:
+# Step 0:
 -	Read links
 -	Try to get an understanding of the Moth and Chalmers Formula Sailing
 
-Step 1:
+# Step 1:
 -	Startup meeting
 -	Establish communication channels 
 -	Make group contract
@@ -15,19 +16,15 @@ Step 1:
 -	Organize us with supervisor 
 
 
-Step 2: 
+# Step 2: 
 -	Establish a concept and goal with the project
 -	Create a time plan including the milestones
 
-Step 3:
+# Step 3:
 	Start project
 
-Step 4: 
+# Step 4: 
 -	TBC 
-
-
-
-
 
 
 
